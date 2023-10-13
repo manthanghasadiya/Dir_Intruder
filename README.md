@@ -15,7 +15,7 @@ $ git clone https://github.com/manthanghasadiya/Dir_Intruder.git
 $ cd Dir_Intruder\intruder\
 
 # Open a terminal and run
-$ python3 RWDbf.py https://example.com wordlist.txt --threads 10
+$ python3 dir_intruder.py https://example.com wordlist.txt --threads 10
 
 ```
 ## Developer
